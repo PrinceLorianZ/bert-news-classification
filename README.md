@@ -1,4 +1,4 @@
-#experimental environment
+### experimental environment
 transformers
 scikit-learn
 python=3.8
@@ -6,12 +6,12 @@ pytorch==1.11.0
 torchvision==0.12.0
 torchaudio==0.11.0
 cudatoolkit=11.3
-#workflows
-#Training documents
+### workflows
+### Training documents
 python tarin.py
-#predict
+### predict
 python predict.py
-#introduction
+### introduction
 - 1. Data Processing Flow
 The dataset consists of 10 categories, including sports, finance, real estate, home, education,
 technology, fashion, current affairs, games, and entertainment. Each row of the dataset is organized as label + text.
